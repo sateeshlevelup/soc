@@ -1,0 +1,9 @@
+{
+	"name": "adf-prod-290",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61e1d168-074f-4102-98b9-c4512dca672e",
+		"tenantId": "fae44175-1e3b-4ad0-8afd-ba5a837345f2"
+	}
+}
